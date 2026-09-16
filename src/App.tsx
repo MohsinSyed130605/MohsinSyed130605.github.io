@@ -337,7 +337,7 @@ function HeroAbout() {
             <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1], delay: 0.75 }}
               className="text-[#fb923c] font-semibold tracking-wide text-sm sm:text-base uppercase mb-5 sm:mb-6">
-              Full-Stack &amp; AI Developer
+              Fullstack Developer | Backend AI Engineering Intern
             </motion.p>
 
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
@@ -421,7 +421,7 @@ function HeroAbout() {
                 >
                   <img
                     src="/mohsin-cutout.png"
-                    alt="Mohsin Syed — Full-Stack & AI Developer"
+                    alt="Mohsin Syed — Fullstack Developer | Backend AI Engineering Intern"
                     className="w-full h-auto object-contain select-none pointer-events-none"
                     style={{
                       maxHeight: 'min(72vh, 600px)',
