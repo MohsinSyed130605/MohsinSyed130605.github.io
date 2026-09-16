@@ -53,18 +53,6 @@ const PROJECTS = [
     sourceCode: 'https://github.com/MohsinSyed130605/Studvanceai',
     liveSite: 'https://studvanceai.vercel.app',
   },
-  {
-    id: 3,
-    num: '03',
-    appLabel: 'portfolio.app',
-    badge: 'FRONT END',
-    title: 'Portfolio Website',
-    description:
-      'A fast, fully responsive portfolio built with React, TypeScript, Tailwind CSS, and Framer Motion featuring fluid typography, dark glassmorphism, and micro-interactions.',
-    tags: ['REACT', 'TYPESCRIPT', 'TAILWIND', 'FRAMER MOTION', 'VITE'],
-    sourceCode: 'https://github.com/MohsinSyed130605',
-    liveSite: null,
-  },
 ]
 
 const CERTIFICATION_GROUPS = [
